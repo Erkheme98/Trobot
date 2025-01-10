@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/erkheme/ros2_ws/trobot/build/trobot_controller",
+        "/home/erkheme/github/ros2/Trobot/install/trobot_controller/lib/python3.10/site-packages",
+        "/home/erkheme/ros2_ws/exro_ws/install/exrobot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/erkheme/ros2_ws/trobot/build/trobot_controller",
+        "/home/erkheme/github/ros2/Trobot/install/trobot_controller/lib/python3.10/site-packages",
+        "/home/erkheme/ros2_ws/exro_ws/install/exrobot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
