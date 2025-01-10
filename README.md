@@ -1,5 +1,10 @@
-# Trobot
-## Simple wheeled robot in Isaac  Sim with ROS2 Humble
+# Trobot Controller
+
+This project contains a ROS 2 node that controls a robot moving in a circular path. The node publishes velocity commands to the robot to achieve the desired motion.
+
+![Trobot Controller](https://github.com/user-attachments/assets/4b5a17ea-d924-4a45-b6d2-3ff16d27198c)
+
+## Project Structure
 ## Node: DrawCircleNode
 
 The `DrawCircleNode` class is responsible for controlling the robot's movement. It publishes velocity commands to the `/trobot_controller/cmd_vel` topic.
@@ -41,6 +46,6 @@ Run the [DrawCircleNode](http://_vscodecontentref_/3):
 ```sh
 ros2 run trobot_controller draw_circle_node
 
-## System
+
 
 ![image](https://github.com/user-attachments/assets/4b5a17ea-d924-4a45-b6d2-3ff16d27198c)
