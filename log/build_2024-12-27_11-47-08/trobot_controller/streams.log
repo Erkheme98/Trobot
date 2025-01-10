@@ -1,0 +1,24 @@
+[0.359s] Invoking command in '/home/erkheme/ros2_ws/trobot/build/trobot_controller': PYTHONPATH=/home/erkheme/ros2_ws/trobot/build/trobot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/erkheme/ros2_ws/trobot/install/trobot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/erkheme/ros2_ws/trobot/build/trobot_controller/build --no-deps symlink_data
+[0.505s] running develop
+[0.590s] running egg_info
+[0.591s] creating trobot_controller.egg-info
+[0.591s] writing trobot_controller.egg-info/PKG-INFO
+[0.591s] writing dependency_links to trobot_controller.egg-info/dependency_links.txt
+[0.591s] writing entry points to trobot_controller.egg-info/entry_points.txt
+[0.591s] writing requirements to trobot_controller.egg-info/requires.txt
+[0.591s] writing top-level names to trobot_controller.egg-info/top_level.txt
+[0.591s] writing manifest file 'trobot_controller.egg-info/SOURCES.txt'
+[0.592s] reading manifest file 'trobot_controller.egg-info/SOURCES.txt'
+[0.592s] writing manifest file 'trobot_controller.egg-info/SOURCES.txt'
+[0.592s] running build_ext
+[0.593s] Creating /home/erkheme/ros2_ws/trobot/install/trobot_controller/lib/python3.10/site-packages/trobot-controller.egg-link (link to .)
+[0.593s] Installing move_control script to /home/erkheme/ros2_ws/trobot/install/trobot_controller/lib/trobot_controller
+[0.593s] 
+[0.593s] Installed /home/erkheme/ros2_ws/trobot/build/trobot_controller
+[0.593s] running symlink_data
+[0.593s] creating /home/erkheme/ros2_ws/trobot/install/trobot_controller/share/ament_index
+[0.593s] creating /home/erkheme/ros2_ws/trobot/install/trobot_controller/share/ament_index/resource_index
+[0.593s] creating /home/erkheme/ros2_ws/trobot/install/trobot_controller/share/ament_index/resource_index/packages
+[0.593s] symbolically linking /home/erkheme/ros2_ws/trobot/build/trobot_controller/resource/trobot_controller -> /home/erkheme/ros2_ws/trobot/install/trobot_controller/share/ament_index/resource_index/packages
+[0.593s] symbolically linking /home/erkheme/ros2_ws/trobot/build/trobot_controller/package.xml -> /home/erkheme/ros2_ws/trobot/install/trobot_controller/share/trobot_controller
+[0.606s] Invoked command in '/home/erkheme/ros2_ws/trobot/build/trobot_controller' returned '0': PYTHONPATH=/home/erkheme/ros2_ws/trobot/build/trobot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/erkheme/ros2_ws/trobot/install/trobot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/erkheme/ros2_ws/trobot/build/trobot_controller/build --no-deps symlink_data

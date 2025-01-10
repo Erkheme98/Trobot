@@ -1,0 +1,3 @@
+[console_scripts]
+move_control = trobot_controller.robot_controller:main
+

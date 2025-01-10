@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing trobot_controller.egg-info/PKG-INFO
+writing dependency_links to trobot_controller.egg-info/dependency_links.txt
+writing entry points to trobot_controller.egg-info/entry_points.txt
+writing requirements to trobot_controller.egg-info/requires.txt
+writing top-level names to trobot_controller.egg-info/top_level.txt
+reading manifest file 'trobot_controller.egg-info/SOURCES.txt'
+writing manifest file 'trobot_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/erkheme/ros2_ws/trobot/install/trobot_controller/lib/python3.10/site-packages/trobot-controller.egg-link (link to .)
+Installing move_control script to /home/erkheme/ros2_ws/trobot/install/trobot_controller/lib/trobot_controller
+
+Installed /home/erkheme/ros2_ws/trobot/build/trobot_controller
+running symlink_data
